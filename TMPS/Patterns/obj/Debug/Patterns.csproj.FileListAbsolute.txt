@@ -1,0 +1,14 @@
+X:\Projects\CSharp\Patterns\Patterns\bin\Debug\Patterns.exe
+X:\Projects\CSharp\Patterns\Patterns\bin\Debug\Patterns.pdb
+X:\Projects\CSharp\Patterns\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+X:\Projects\CSharp\Patterns\Patterns\obj\Debug\Patterns.csproj.SuggestedBindingRedirects.cache
+X:\Projects\CSharp\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+X:\Projects\CSharp\Patterns\Patterns\obj\Debug\Patterns.exe
+X:\Projects\CSharp\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\Виктор\Desktop\TMPS\Patterns\bin\Debug\Patterns.exe
+C:\Users\Виктор\Desktop\TMPS\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Виктор\Desktop\TMPS\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\TMPS\Patterns\obj\Debug\Patterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктор\Desktop\TMPS\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\TMPS\Patterns\obj\Debug\Patterns.exe
+C:\Users\Виктор\Desktop\TMPS\Patterns\obj\Debug\Patterns.pdb
